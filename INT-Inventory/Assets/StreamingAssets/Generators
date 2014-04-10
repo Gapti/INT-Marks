@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGenerator xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Generator>
+    <ItemName>New Generator</ItemName>
+    <Stackable>false</Stackable>
+    <MaxStack>0</MaxStack>
+    <Type>Generator</Type>
+    <ItemGameObject>Sword</ItemGameObject>
+    <Atlas>Inventory</Atlas>
+    <ItemSprite>KnifeIcon</ItemSprite>
+    <Description>This is a generator</Description>
+    <StackAmount>1</StackAmount>
+    <tester>0</tester>
+  </Generator>
+  <Generator>
+    <ItemName />
+    <Stackable>false</Stackable>
+    <MaxStack>0</MaxStack>
+    <Type>Generator</Type>
+    <ItemGameObject />
+    <Atlas />
+    <ItemSprite />
+    <Description />
+    <StackAmount>1</StackAmount>
+    <tester>0</tester>
+  </Generator>
+</ArrayOfGenerator>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfQuest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Quest>
+    <ItemName>e</ItemName>
+    <Stackable>false</Stackable>
+    <MaxStack>0</MaxStack>
+    <Type>Quest</Type>
+    <ItemGameObject>Sword</ItemGameObject>
+    <Atlas>Inventory</Atlas>
+    <ItemSprite>HealthPotionIconSmall</ItemSprite>
+    <Description />
+    <StackAmount>1</StackAmount>
+  </Quest>
+</ArrayOfQuest>

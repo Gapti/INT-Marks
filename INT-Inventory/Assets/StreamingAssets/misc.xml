@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfMisc xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Misc>
+    <ItemName>Nineteenth Century Pocket Watch</ItemName>
+    <Stackable>true</Stackable>
+    <MaxStack>2</MaxStack>
+    <Type>Misc</Type>
+    <ItemGameObject />
+    <Atlas>Inventory</Atlas>
+    <ItemSprite>IronMaceIcon</ItemSprite>
+    <Description>An antique watch that could possibly fetch quite a pretty penny. The watch appears to be in pretty good condition despite its age and continues to tick unabated by time.</Description>
+    <StackAmount>1</StackAmount>
+  </Misc>
+  <Misc>
+    <ItemName>Jar Test</ItemName>
+    <Stackable>true</Stackable>
+    <MaxStack>2</MaxStack>
+    <Type>Misc</Type>
+    <ItemGameObject>Sword</ItemGameObject>
+    <Atlas>Inventory</Atlas>
+    <ItemSprite>HealthPotionIconSmall</ItemSprite>
+    <Description>This is a jar</Description>
+    <StackAmount>1</StackAmount>
+  </Misc>
+  <Misc>
+    <ItemName />
+    <Stackable>false</Stackable>
+    <MaxStack>0</MaxStack>
+    <Type>Misc</Type>
+    <ItemGameObject />
+    <Atlas />
+    <ItemSprite />
+    <Description />
+    <StackAmount>1</StackAmount>
+  </Misc>
+</ArrayOfMisc>

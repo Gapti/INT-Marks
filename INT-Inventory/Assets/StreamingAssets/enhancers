@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEnhancer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Enhancer>
+    <ItemName>g</ItemName>
+    <Stackable>false</Stackable>
+    <MaxStack>0</MaxStack>
+    <Type>Enhancer</Type>
+    <ItemGameObject>Sword</ItemGameObject>
+    <Atlas>Inventory</Atlas>
+    <ItemSprite>hud_inv_top-roght-corner</ItemSprite>
+    <Description />
+    <StackAmount>1</StackAmount>
+  </Enhancer>
+</ArrayOfEnhancer>

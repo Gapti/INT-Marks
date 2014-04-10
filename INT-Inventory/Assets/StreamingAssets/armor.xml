@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfArmor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Armor>
+    <ItemName>Common Shirt</ItemName>
+    <Stackable>false</Stackable>
+    <MaxStack>0</MaxStack>
+    <Type>Armor</Type>
+    <ItemGameObject>Shirt</ItemGameObject>
+    <Atlas>Inventory</Atlas>
+    <ItemSprite>LeatherHelmetIconSmall</ItemSprite>
+    <Description />
+    <StackAmount>1</StackAmount>
+    <Fits>Legs</Fits>
+    <ArmorValue>10</ArmorValue>
+    <DefenseValue>10</DefenseValue>
+  </Armor>
+  <Armor>
+    <ItemName />
+    <Stackable>false</Stackable>
+    <MaxStack>0</MaxStack>
+    <Type>Armor</Type>
+    <ItemGameObject />
+    <Atlas />
+    <ItemSprite />
+    <Description />
+    <StackAmount>1</StackAmount>
+    <Fits>Helm</Fits>
+    <ArmorValue>0</ArmorValue>
+    <DefenseValue>0</DefenseValue>
+  </Armor>
+  <Armor>
+    <ItemName>Green commmon Shirt</ItemName>
+    <Stackable>false</Stackable>
+    <MaxStack>0</MaxStack>
+    <Type>Armor</Type>
+    <ItemGameObject />
+    <Atlas />
+    <ItemSprite />
+    <Description />
+    <StackAmount>1</StackAmount>
+    <Fits>Helm</Fits>
+    <ArmorValue>0</ArmorValue>
+    <DefenseValue>0</DefenseValue>
+  </Armor>
+  <Armor>
+    <ItemName />
+    <Stackable>false</Stackable>
+    <MaxStack>0</MaxStack>
+    <Type>Armor</Type>
+    <ItemGameObject />
+    <Atlas />
+    <ItemSprite />
+    <Description />
+    <StackAmount>1</StackAmount>
+    <Fits>Helm</Fits>
+    <ArmorValue>0</ArmorValue>
+    <DefenseValue>0</DefenseValue>
+  </Armor>
+</ArrayOfArmor>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfWeapon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Weapon>
+    <ItemName>Sword</ItemName>
+    <Stackable>false</Stackable>
+    <MaxStack>5</MaxStack>
+    <Type>Weapon</Type>
+    <ItemGameObject>Sword</ItemGameObject>
+    <Atlas>Inventory</Atlas>
+    <ItemSprite>KnifeIcon</ItemSprite>
+    <Description>This is a long sword</Description>
+    <StackAmount>1</StackAmount>
+    <Damage>0</Damage>
+    <MinRange>0</MinRange>
+    <MaxRange>0</MaxRange>
+    <CriticalStrike>0</CriticalStrike>
+    <BatteryRecharge>0</BatteryRecharge>
+    <Exhaustion>0</Exhaustion>
+  </Weapon>
+  <Weapon>
+    <ItemName>Axe</ItemName>
+    <Stackable>false</Stackable>
+    <MaxStack>0</MaxStack>
+    <Type>Weapon</Type>
+    <ItemGameObject>Sword</ItemGameObject>
+    <Atlas>Inventory</Atlas>
+    <ItemSprite>LeatherHelmetIconSmall</ItemSprite>
+    <Description>An Axe</Description>
+    <StackAmount>1</StackAmount>
+    <Damage>0</Damage>
+    <MinRange>0</MinRange>
+    <MaxRange>0</MaxRange>
+    <CriticalStrike>0</CriticalStrike>
+    <BatteryRecharge>0</BatteryRecharge>
+    <Exhaustion>0</Exhaustion>
+  </Weapon>
+</ArrayOfWeapon>
