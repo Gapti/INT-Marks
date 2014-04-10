@@ -182,7 +182,8 @@ public class DatabaseEditor : Editor {
 
 		CommonItemProps(control.WeaponList[ItemIndex]);
 
-		control.WeaponList[ItemIndex].Damage = EditorGUILayout.FloatField("Damage", control.WeaponList[ItemIndex].Damage);
+		control.WeaponList[ItemIndex].MinDamage = EditorGUILayout.FloatField("Min Damage", control.WeaponList[ItemIndex].MinDamage);
+		control.WeaponList[ItemIndex].MaxDamage = EditorGUILayout.FloatField("Max Damage", control.WeaponList[ItemIndex].MaxDamage);
 		control.WeaponList[ItemIndex].MinRange = EditorGUILayout.FloatField("MinRange", control.WeaponList[ItemIndex].MinRange);
 		control.WeaponList[ItemIndex].MaxRange = EditorGUILayout.FloatField("MaxRange", control.WeaponList[ItemIndex].MaxRange);
 		control.WeaponList[ItemIndex].CriticalStrike = EditorGUILayout.FloatField("CriticalStrike", control.WeaponList[ItemIndex].CriticalStrike);

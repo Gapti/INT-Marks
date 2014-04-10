@@ -5,7 +5,8 @@ using System.Collections;
 [System.Serializable]
 public class Weapon : Item {
 
-	public float Damage;
+	public float MinDamage;
+	public float MaxDamage;
 	public float MinRange;
 	public float MaxRange;
 	public float CriticalStrike;
@@ -20,7 +21,8 @@ public class Weapon : Item {
 		
 		//copy all vars before return
 
-		item.Damage = Damage;
+		item.MinDamage = MinDamage;
+		item.MaxDamage = MaxDamage;
 		item.MinRange = MinRange;
 		item.MaxRange = MaxRange;
 		item.CriticalStrike = CriticalStrike;

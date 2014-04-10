@@ -1,38 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/PlayerHealth.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Editor/DatabaseEditor.cs">
     <Files>
-      <File FileName="Assets/PlayerHealth.cs" Line="26" Column="3" />
-      <File FileName="Assets/NGUIManager.cs" Line="82" Column="4" />
-      <File FileName="Assets/GameManager.cs" Line="11" Column="3" />
-      <File FileName="Assets/ItemSlot.cs" Line="149" Column="2" />
-      <File FileName="Assets/INTEvents.cs" Line="6" Column="50" />
-      <File FileName="Assets/GUIManager.cs" Line="61" Column="5" />
-      <File FileName="Assets/BlankSlotManager.cs" Line="10" Column="99" />
-      <File FileName="Assets/RightClickOptionManager.cs" Line="39" Column="28" />
-      <File FileName="Assets/Inventory.cs" Line="162" Column="2" />
+      <File FileName="Assets/Weapon.cs" Line="25" Column="30" />
+      <File FileName="Assets/Editor/DatabaseEditor.cs" Line="186" Column="36" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="Assembly-CSharp" expanded="True">
-            <Node name="NGUI" expanded="True">
-              <Node name="Scripts" expanded="True">
-                <Node name="Interaction" expanded="True" />
-                <Node name="Internal" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="PlayerHealth.cs" selected="True" />
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="ClassPad">
-        <State expanded="True" selected="True" />
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
